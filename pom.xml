@@ -17,7 +17,7 @@
 		<spring.version>4.3.27.RELEASE</spring.version>
 		<mysql.version>8.0.18</mysql.version>
 		<hibernate.version>5.4.12.Final</hibernate.version>
-		<junit.version>3.8.1</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<jstl.version>1.2.1</jstl.version>
 		<taglibs.version>1.1.2</taglibs.version>
 		<jdk.version>1.8</jdk.version>
